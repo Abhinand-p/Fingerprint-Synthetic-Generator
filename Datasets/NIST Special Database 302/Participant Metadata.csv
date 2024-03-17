@@ -1,0 +1,201 @@
+id,age,yob,collection_day,group,gender,race,work_type
+00002406,35,1982,2,no answer,male,white,office work
+00002381,54,1963,2,1,female,white,other
+00002379,38,1979,2,2,female,white,other
+00002369,36,1981,2,1,female,white,office work
+00002357,48,1969,2,no answer,female,white,office work
+00002352,38,1979,1,no answer,male,white,office work
+00002403,52,1965,2,3,female,african american,office work
+00002351,32,1985,1,1,male,african american,no answer
+00002349,65,1952,1,no answer,male,white,other
+00002334,51,1966,1,2,female,white,office work
+00002353,40,1977,1,2,female,african american,office work
+00002312,57,1960,1,2,female,white,office work
+00002341,43,1974,1,no answer,female,white,office work
+00002329,39,1978,1,4,male,african american,other
+00002332,53,1964,1,no answer,female,white,office work
+00002348,47,1970,1,4,male,white,other
+00002338,24,1993,1,1,female,white,office work
+00002342,47,1970,1,1,female,white,office work
+00002328,35,1982,1,2,female,no answer,no answer
+00002315,57,1960,1,2,female,white,other
+00002319,24,1993,1,no answer,female,white,no answer
+00002314,25,1992,1,2,female,african american,other
+00002340,52,1965,1,2,female,white,office work
+00002330,36,1981,1,no answer,male,asian,office work
+00002313,43,1974,1,3,male,african american,manual labor
+00002355,28,1989,1,no answer,female,white,office work
+00002325,52,1965,1,4,female,white,other
+00002354,26,1991,1,4,male,african american,other
+00002339,35,1982,1,no answer,male,asian,office work
+00002423,33,1984,2,1,female,african american,office work
+00002391,48,1969,2,1,male,asian,no answer
+00002367,30,1987,2,1,female,white,other
+00002394,41,1976,2,1,male,white,office work
+00002361,58,1959,2,2,female,white,other
+00002384,36,1981,2,no answer,female,white,no answer
+00002424,37,1980,2,2,female,white,office work
+00002326,56,1961,1,1,male,white,office work
+00002307,45,1972,1,2,female,african american,other
+00002304,37,1980,1,no answer,male,white,office work
+00002320,54,1963,1,no answer,female,white,office work
+00002344,47,1970,1,2,male,african american,office work
+00002425,32,1985,2,no answer,female,white,no answer
+00002374,37,1980,2,no answer,male,white,other
+00002399,49,1968,2,no answer,female,white,other
+00002376,60,1957,2,no answer,male,white,other
+00002426,49,1968,2,3,male,white,other
+00002409,47,1970,2,4a,male,white,office work
+00002412,27,1990,2,4a,male,other,manual labor
+00002359,56,1961,2,5,male,white,office work
+00002398,40,1977,2,5,female,african american,office work
+00002408,59,1958,2,5,female,white,office work
+00002395,35,1982,2,5,female,white,other
+00002481,34,1983,3,1,male,white,office work
+00002401,45,1972,2,no answer,female,white,office work
+00002392,45,1972,2,3,male,white,office work
+00002396,56,1961,2,4a,female,white,office work
+00002388,29,1988,2,4a,female,white,office work
+00002360,18,1999,2,4a,male,white,other
+00002371,26,1991,2,4a,male,white,manual labor
+00002383,47,1970,2,5,female,white,office work
+00002418,36,1981,2,5,female,white,no answer
+00002413,37,1980,2,5,female,white,office work
+00002415,57,1960,2,4a,female,white,office work
+00002407,31,1986,2,4a,male,white,office work
+00002368,29,1988,2,4a,female,asian,other
+00002310,44,1973,1,3,female,white,other
+00002302,54,1963,1,3,female,african american,no answer
+00002337,33,1984,1,3,male,white,office work
+00002321,44,1973,1,3,female,white,other
+00002306,59,1958,1,no answer,male,white,office work
+00002356,48,1969,1,4,male,white,office work
+00002386,59,1958,2,1,female,white,other
+00002358,58,1959,2,1,female,white,office work
+00002375,42,1975,2,1,female,african american,office work
+00002420,32,1985,2,1,female,white,office work
+00002402,44,1973,2,2,female,african american,office work
+00002428,55,1962,2,4a,female,white,other
+00002362,40,1977,2,3,female,white,other
+00002372,52,1965,2,5,male,african american,other
+00002447,53,1964,3,1,female,african american,other
+00002405,27,1990,2,4a,male,asian,no answer
+00002364,33,1984,2,4a,female,white,other
+00002380,48,1969,2,5,male,white,office work
+00002370,34,1983,2,5,female,white,other
+00002373,24,1993,2,5,male,white,other
+00002303,28,1989,1,3,female,other,office work
+00002317,61,1956,1,no answer,male,african american,office work
+00002327,45,1972,1,3,female,white,other
+00002443,22,1995,3,2,female,white,office work
+00002478,35,1982,3,2,female,white,other
+00002463,52,1965,3,1,female,asian,office work
+00002462,32,1985,3,1,male,other,other
+00002455,60,1957,3,1,female,african american,office work
+00002440,55,1962,3,1,male,african american,office work
+00002457,28,1989,3,3,female,white,office work
+00002454,36,1981,3,3,male,white,office work
+00002483,21,1996,3,2,female,white,other
+00002484,41,1976,3,2,female,white,other
+00002439,61,1956,3,2,female,african american,no answer
+00002448,28,1989,3,2,female,african american,other
+00002456,21,1996,3,2,female,white,other
+00002433,54,1963,3,2,male,white,office work
+00002480,55,1962,3,2,male,white,manual labor
+00002435,19,1998,3,2,female,african american,manual labor
+00002446,45,1972,3,2,female,white,other
+00002475,59,1958,3,3,female,white,office work
+00002466,34,1983,3,3,female,white,office work
+00002437,20,1997,3,3,male,white,manual labor
+00002449,21,1996,3,3,male,white,no answer
+00002571,25,1992,4,2,male,white,office work
+00002538,24,1993,4,2,male,white,other
+00002504,32,1985,4,2,female,other,office work
+00002516,50,1967,4,2,male,pacific islander,other
+00002533,31,1986,4,2,male,asian,other
+00002472,24,1993,3,2,female,white,other
+00002434,31,1986,3,2,female,white,other
+00002445,29,1988,3,3,male,white,other
+00002458,22,1995,3,3,female,white,other
+00002542,43,1974,4,2,female,white,other
+00002564,81,1936,4,2,female,white,no answer
+00002569,54,1963,4,1,female,african american,office work
+00002555,24,1993,4,1,female,white,other
+00002535,52,1965,4,1,male,white,other
+00002556,18,1999,4,1,female,other,other
+00002521,52,1965,4,1,female,white,other
+00002578,33,1984,4,1,female,other,other
+00002561,37,1980,4,1,female,white,other
+00002518,23,1994,4,1,female,white,office work
+00002541,20,1997,4,1,female,other,office work
+00002551,23,1994,4,1,female,white,other
+00002499,24,1993,4,1,female,white,other
+00002534,23,1994,4,1,female,white,other
+00002546,25,1992,4,1,male,white,other
+00002624,40,1977,5,1,female,african american,other
+00002568,25,1992,4,2,female,no answer,office work
+00002505,47,1970,4,2,male,white,office work
+00002531,43,1974,4,2,female,other,other
+00002575,22,1995,4,2,male,white,other
+00002495,53,1964,4,3,female,african american,other
+00002494,56,1961,4,3,female,white,office work
+00002554,56,1961,4,3,female,white,other
+00002560,39,1978,4,3,female,white,office work
+00002537,46,1971,4,4a,male,white,office work
+00002502,58,1959,4,4a,female,white,office work
+00002496,48,1969,4,4a,female,white,office work
+00002508,44,1973,4,5,female,african american,office work
+00002488,31,1986,4,5,male,white,office work
+00002581,40,1977,5,1,female,asian,office work
+00002523,53,1964,4,2,female,white,other
+00002528,43,1974,4,3,male,african american,office work
+00002558,60,1957,4,3,female,white,office work
+00002493,25,1992,4,3,female,white,other
+00002514,57,1960,4,4a,female,white,other
+00002559,54,1963,4,2,male,white,office work
+00002550,49,1968,4,3,female,african american,other
+00002577,53,1964,4,3,female,white,office work
+00002500,31,1986,4,3,female,white,office work
+00002544,57,1960,4,4a,male,white,other
+00002501,32,1985,4,4a,female,other,office work
+00002510,46,1971,4,4a,female,white,other
+00002573,31,1986,4,5,female,asian,other
+00002497,60,1957,4,5,male,white,manual labor
+00002579,22,1995,4,5,female,white,office work
+00002515,27,1990,4,5,female,white,office work
+00002547,31,1986,4,5,male,african american,office work
+00002574,38,1979,4,5,female,white,other
+00002606,20,1997,5,1,female,other,manual labor
+00002633,34,1983,5,1,female,white,office work
+00002649,51,1966,5,1,female,white,office work
+00002604,36,1981,5,1,female,white,office work
+00002621,25,1992,5,1,female,white,other
+00002489,27,1990,4,5,male,african american,no answer
+00002557,28,1989,4,5,female,asian,other
+00002651,36,1981,5,1,female,white,office work
+00002614,44,1973,5,1,female,african american,office work
+00002584,23,1994,5,2,male,asian,office work
+00002630,47,1970,5,2,female,african american,other
+00002596,26,1991,5,2,male,asian,office work
+00002640,27,1990,5,3,male,white,other
+00002586,50,1967,5,3,male,white,office work
+00002646,44,1973,5,3,male,african american,office work
+00002602,52,1965,5,3,male,asian,office work
+00002650,50,1967,5,3,male,white,office work
+00002588,47,1970,5,3,female,white,office work
+00002625,50,1967,5,3,female,white,office work
+00002583,49,1968,5,3,female,white,office work
+00002645,51,1966,5,3,female,white,office work
+00002610,53,1964,5,4,female,african american,office work
+00002611,54,1963,5,3,male,african american,manual labor
+00002644,55,1962,5,4,female,african american,office work
+00002626,59,1958,5,4,male,african american,manual labor
+00002615,29,1988,5,4,female,white,other
+00002634,48,1969,5,4,female,white,office work
+00002636,42,1975,5,4,male,white,office work
+00002582,34,1983,5,4,female,other,other
+00002641,24,1993,5,4,female,white,other
+00002616,45,1972,5,4,female,white,other
+00002612,43,1974,5,4,female,white,other
+00002593,41,1976,5,4,female,white,office work
+00002591,28,1989,5,4,female,white,office work
