@@ -1,7 +1,11 @@
 # Fingerprint Generation using Generative Adversarial Networks (GANs)
 
-![generated_images_animation.gif](generated_images_animation.gif)
----
+![generated_images_animation_Sokoto_Coventry_Fingerprint_Dataset.gif](generated_images_animation_Sokoto_Coventry_Fingerprint_Dataset.gif)
+#### Generation for Sokoto Coventry Fingerprint Dataset
+
+![generated_images_animation_NIST_Special_Dataset.gif](generated_images_animation_NIST_Special_Dataset.gif)
+#### Generation for NIST Special Dataset
+
 
 Implementation of a Generative Adversarial Network (GAN) for generating synthetic fingerprint images. 
 GANs are a class of deep learning models that consist of two neural networks, a Generator and a Discriminator, trained simultaneously in a game-like setting. 
