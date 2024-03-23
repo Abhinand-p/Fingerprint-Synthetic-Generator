@@ -6,8 +6,6 @@ This research is pivotal for improving the utility of synthetic data in training
 
 This project serves as a submission for the Generative Neural Network for the Sciences course at Heidelberg University.
 
-
-
 Task Division for 21-03-2024
 
 | Topic             | Person   |
@@ -31,4 +29,10 @@ Report Division
 | Validation                  | Abhinand |
 | Experimentation - GAN Basic | Hammad   |
 | Consistency Model           | Veerav   |
+
+Sections to Add by Abhinand:
+1. GAN-Control 
+2. GAN based experiments 
+3. GAN-Control based experiments 
+4. 
 
