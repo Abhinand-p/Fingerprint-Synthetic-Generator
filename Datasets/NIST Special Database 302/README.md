@@ -25,3 +25,5 @@ These activities were chosen to facilitate the use of different latent print dev
     * File size: 2.1 GB, Version: 20180814, SHA-256: d78c1cd6089625eb856bc135fa615def9a389cb057b0cef66f43ae34328dc582
 
 Source: https://www.nist.gov/itl/iad/image-group/nist-special-database-302
+
+Note: The dataset has been deleted from the repository in-order to maintain the legal terms according to NIST. 
